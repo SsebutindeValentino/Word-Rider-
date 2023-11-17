@@ -1,2 +1,0 @@
-# Word-Rider-
-Word processor 
